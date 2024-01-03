@@ -5,7 +5,11 @@ This project contains a Python-based Wordle solver. The solver uses a list of wo
 
 ## Prerequisites
 - Python 3.x
-- Dependencies as listed in `requirements.txt` (if any)
+- Dependencies as listed in `requirements.txt` (if any) to install them run 
+ ```bash
+ pip install -r requirements.txt
+ ```
+
 
 ## Setup
 1. Clone the repository or download the source code.
