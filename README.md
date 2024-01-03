@@ -23,7 +23,8 @@ python word_extractor.py
 ```
 
 ### Usage
-- Choose the length of the word you are interested in.
+
+- Choose the length of the word you are interested in from [this](https://www.thewordfinder.com/wordlist/all/?dir=ascending&field=word&pg=1&size=7) website.
 - Copy the URL from the website where the words are listed.
 - Open `word_extractor.py` and paste the URL into the `url` variable.
 - Run the script. Extracted words will be saved in `words.txt`.
